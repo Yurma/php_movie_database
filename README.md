@@ -1,6 +1,8 @@
 # PHP Movie Database
 PHP Movie Database I made as final project for [Algebra](https://www.algebra.hr/) PHP course.
 
+Site Demo (on heroku): [Demo](https://php-movie-database.herokuapp.com/)
+
 Features
 --------
 
